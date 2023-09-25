@@ -21,6 +21,8 @@ flower = "*"
 django-redis = "*"
 whitenoise = "*"
 gunicorn = "*"
+renderctl = "*"
+render-cli = "*"
 
 [dev-packages]
 autopep8 = "*"
